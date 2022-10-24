@@ -13,10 +13,10 @@ function renderItems() {
         colItem.innerHTML = `
     <div class="mt-4">
       <div class="card">
-        <img src="https://bruce-fe-ec.web.app/images/item.png" class="card-img-top" >
+        <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" class="card-img-top" >
         <div class="card-body p-2">
           <h5 class="card-title text-primary">$2000</h5>
-          <p class="card-text fs-7">這是一罐沐浴乳這是一罐沐浴乳這是一罐沐浴乳</p>
+          <p class="card-text fs-7">這是一碗沙拉這是一碗沙拉這是一碗沙拉這是一碗沙拉</p>
           <p class="card-text text-end fs-8">已售出 1000</p>
         </div>
         <span class="badge bg-primary position-absolute top-0 end-0">雙11優惠</span>
